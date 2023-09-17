@@ -5,6 +5,8 @@ useSeoMeta({
     '哔哩哔哩(blibli.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。',
   // 搜索关键词
   keywords: 'B站,blibli,哔哩哔哩,哔哩哔哩动画,动漫,电影,在线动漫,高清电影',
+  // 绕开B站 图片防盗链
+  referrer: 'no-referrer',
 })
 </script>
 
